@@ -8,7 +8,7 @@ A IT & computer science student from the University of Ferrara
 - ⚡ Fun fact: whenever I have a problem, an Indian tutorial saves my life
 
 Languages and Tools:
-
+![C]()
 
 <!--
 **francescobarioni/francescobarioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
