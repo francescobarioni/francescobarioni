@@ -1,6 +1,6 @@
 ### Hi👋, I'm Francesco 🙋‍♂️
 -------------------------------------------------------------------------------------------------
-A IT & computer science student from the University of Ferrara
+IT & computer science student from the University of Ferrara
 
 - 📫 How to reach me: francescobarioni18@gmail.com
 - 👨‍💻 All of my projects are available at https://github.com/francescobarioni
