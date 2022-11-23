@@ -23,7 +23,7 @@ Languages:
 
 Tools:
 <br>
-<img src="https://github.com/francescobarioni/img/blob/main/laravel.jpg" data-canonical-src="https://github.com/francescobarioni/img/blob/main/laravel.jpg" width="50" height="50" />
+<img src="[https://github.com/francescobarioni/img/blob/main/laravel.jpg](https://github.com/francescobarioni/img/blob/main/laravel.svg)" data-canonical-src="[https://github.com/francescobarioni/img/blob/main/laravel.jpg](https://github.com/francescobarioni/img/blob/main/laravel.svg)" width="50" height="50" />
 <img src="https://github.com/francescobarioni/img/blob/main/wordpress.png" data-canonical-src="https://github.com/francescobarioni/img/blob/main/wordpress.png" width="50" height="50" />
 
 
