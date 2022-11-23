@@ -22,7 +22,8 @@ Languages:
 <img src="https://img.icons8.com/arcade/344/r.png" data-canonical-src="https://img.icons8.com/arcade/344/r.png" width="50" height="50" />
 
 Tools:
-<img src="" data-canonical-src="" width="50" height="50" />
+<br>
+<i class="fa-brands fa-laravel"></i>
 
 <!--
 **francescobarioni/francescobarioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
