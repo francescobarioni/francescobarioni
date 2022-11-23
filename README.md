@@ -23,7 +23,9 @@ Languages:
 
 Tools:
 <br>
-<i class="fa-brands fa-laravel"></i>
+<img src="https://github.com/francescobarioni/img/blob/main/laravel.jpg" data-canonical-src="https://github.com/francescobarioni/img/blob/main/laravel.jpg" width="50" height="50" />
+<img src="https://github.com/francescobarioni/img/blob/main/wordpress.png" data-canonical-src="https://github.com/francescobarioni/img/blob/main/wordpress.png" width="50" height="50" />
+
 
 <!--
 **francescobarioni/francescobarioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
