@@ -7,7 +7,7 @@ IT & computer science student from the University of Ferrara
 - 🔭 I am currently working on it on web apps, mobile apps and games 
 - ⚡ Fun fact: whenever I have a problem, an Indian tutorial saves my life
 
-Languages and Tools:
+Languages:
 <br>
 <img src="https://github.com/francescobarioni/img/blob/main/c-original.svg" data-canonical-src="https://github.com/francescobarioni/img/blob/main/c-original.svg" width="50" height="50" />
 <img src="https://github.com/francescobarioni/img/blob/main/c%2B%2B-original.svg" data-canonical-src="https://github.com/francescobarioni/img/blob/main/c%2B%2B-original.svg" width="50" height="50" />
@@ -21,6 +21,8 @@ Languages and Tools:
 <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-java-script-mobile-app-development-flaticons-lineal-color-flat-icons.png" data-canonical-src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-java-script-mobile-app-development-flaticons-lineal-color-flat-icons.png" width="50" height="50" />
 <img src="https://img.icons8.com/arcade/344/r.png" data-canonical-src="https://img.icons8.com/arcade/344/r.png" width="50" height="50" />
 
+Tools:
+<img src="" data-canonical-src="" width="50" height="50" />
 
 <!--
 **francescobarioni/francescobarioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
