@@ -34,6 +34,10 @@ TeamWork & workflow:
 <img src="https://github.com/francescobarioni/img/blob/main/discord.svg" width="50" height="50" />
 <img src="https://github.com/francescobarioni/img/blob/main/bitbucket.svg" width="50" height="50" />
 
+Programming:
+<br>
+<img src="https://github.com/francescobarioni/img/blob/main/vs_code.svg" width="50" height="50" />
+
 
 <!--
 **francescobarioni/francescobarioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
