@@ -27,6 +27,13 @@ Tools:
 <img src="https://github.com/francescobarioni/img/blob/main/wordpress.png" data-canonical-src="https://github.com/francescobarioni/img/blob/main/wordpress.png" width="50" height="50" />
 <img src="https://github.com/francescobarioni/img/blob/main/vuejs.svg" width="50" height="50" />
 
+TeamWork & workflow:
+<br>
+<img src="https://github.com/francescobarioni/img/blob/main/github.svg" width="50" height="50" />
+<img src="https://github.com/francescobarioni/img/blob/main/git.svg" width="50" height="50" />
+<img src="https://github.com/francescobarioni/img/blob/main/discord.svg" width="50" height="50" />
+<img src="https://github.com/francescobarioni/img/blob/main/bitbucket.svg" width="50" height="50" />
+
 
 <!--
 **francescobarioni/francescobarioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
